@@ -1,0 +1,74 @@
+
+        body{
+            background-image: linear-gradient(to left,blue,violet);
+        }
+        img{
+            width: 100%;
+            height: 300px;
+        }
+        #image{
+            height: 200px;
+            width: 200px;
+            position: absolute;
+            left: 40px;
+            top: 150px;
+            border-radius: 50%;
+        }
+        nav{
+            text-decoration: none;
+            position: relative;
+            left: 200px;
+        }
+        a{
+            font-weight: bold;
+            text-decoration: none;
+            font-size: large;
+            background-color: rgb(35, 228, 245);
+            border-radius: 2px;
+        }
+        section>img{
+            height: 50px;
+            width: 50px;
+        }
+        #section1{
+            background-color: rgb(185, 122, 244);
+            display: inline-block;
+            border-right: 1px; 
+            width: 50%;
+            height: 500px;
+        }
+        .section3>iframe{
+            position: relative;
+            left: 2px;
+            height: 500px;
+            width: 410px;
+            
+        }
+        .per>.new{
+            display: inline-block;
+            height: 50px;
+            width: 100px;
+        }
+        .per>input{
+            position: relative;
+            bottom: 20px;
+            left: 40%;
+        }
+        .span1{
+            display: flex;
+        }
+        #id1{
+            width: 90%;
+        }
+        .section4>iframe{
+            display: inline-block;
+            width: 90%;
+            height: 400px;
+            position: relative;
+            left: 5%;
+        }
+        p{
+            font-weight: bold;
+            font-size: 20px;
+            text-shadow: 3px 2px 1px rgb(124, 194, 237);
+        }
